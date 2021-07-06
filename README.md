@@ -5,6 +5,10 @@
 - 🔭 I’m currently working on erebus which is a tool similar to nuclei.
 - 💬 Ask me about anything related to websecurity and I can help.
 
+
+[![asciicast](https://asciinema.org/a/3CiRBTDkvZhI36jqGEz57MYvm.svg)](https://asciinema.org/a/3CiRBTDkvZhI36jqGEz57MYvm)
+
+
 ### Skills
 
 - Web App Pentesting
