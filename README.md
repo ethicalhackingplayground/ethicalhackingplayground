@@ -12,7 +12,7 @@
 ### Skills
 
 - Web App Pentesting
-- Full stack developement
+- Full stack development
 - Social Media Marketing
 - Programming 
 - Linux, Windows & MacOSX
