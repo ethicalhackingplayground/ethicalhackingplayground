@@ -32,8 +32,11 @@
 ### Social Media Links
 
 [https://www.youtube.com/krypt0muxbugbounty](https://www.youtube.com/krypt0muxbugbounty)
+
 [facebook.com/krypt0muxbugbounty](facebook.com/krypt0muxbugbounty)
+
 [https://twitter.com/z0idsec](https://twitter.com/z0idsec)
+
 
 ### Hunting Profile
 
