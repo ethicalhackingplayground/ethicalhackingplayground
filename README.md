@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**ethicalhackingplayground/ethicalhackingplayground** has lot's of cool tools to be used for bughunting 🔥
+**ethicalhackingplayground** has lot's of cool tools to be used for bughunting 🔥
 
 - 🔭 I’m currently working on erebus which is a tool similar to nuclei.
 - 💬 Ask me about anything related to websecurity and I can help.
