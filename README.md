@@ -1,16 +1,39 @@
 ### Hi there 👋
 
-<!--
-**ethicalhackingplayground/ethicalhackingplayground** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ethicalhackingplayground/ethicalhackingplayground** has lot's of cool tools to be used for bughunting 🔥
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on erebus which is a tool similar to nuclei.
+- 💬 Ask me about anything related to websecurity and I can help.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+- Web App Pentesting
+- Full stack developement
+- Social Media Marketing
+- Programming 
+- Linux & Windows Also MacOSX
+- User Space Exploit Dev
+
+### Hobbies
+
+- Live and breath weight lifting
+- Going out with Friends and my Partner
+- Learning about Supplements and the Human body
+- Learning ways to stream Income
+- Creating content for Youtube
+- Playing Games
+- Making Games with Unity3D
+- Cooking
+
+### Social Media Links
+
+[https://www.youtube.com/krypt0muxbugbounty](https://www.youtube.com/krypt0muxbugbounty)
+[facebook.com/krypt0muxbugbounty](facebook.com/krypt0muxbugbounty)
+[https://twitter.com/z0idsec](https://twitter.com/z0idsec)
+
+### Hunting Profile
+
+[https://bugcrowd.com/kappasec](https://bugcrowd.com/kappasec)
+
+
+
