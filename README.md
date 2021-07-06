@@ -11,7 +11,7 @@
 - Full stack developement
 - Social Media Marketing
 - Programming 
-- Linux & Windows Also MacOSX
+- Linux, Windows & MacOSX
 - User Space Exploit Dev
 
 ### Hobbies
