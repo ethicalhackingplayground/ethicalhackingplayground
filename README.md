@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on pathbuster A path-normalization pentesting tool.<br>💬 Ask me about anything related to web security and I can help.
+🔭 I’m currently working on a private AEM vulnerability scanner called aem-scan<br>💬 Ask me about anything related to web security and I can help.
 
 
 ## 🌐 Socials:
